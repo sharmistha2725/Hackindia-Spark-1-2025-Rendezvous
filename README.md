@@ -1,4 +1,7 @@
-# Medical Crowdfunding Platform - Local Setup Guide
+# MedFund: AI-Powered Medical Crowdfunding Platform with Blockchain Security
+
+## Project Description:
+MedFund is a secure, AI-driven crowdfunding platform designed to support critical patients in need of medical financial assistance. It streamlines campaign creation, donor contributions, and real-time tracking while ensuring transparency through blockchain technology. The platform leverages an advanced ML model to assess the severity of medical conditions, helping prioritize critical cases. Secure payment processing via Razorpay and robust security measures protect transactions and user data. With real-time updates, blockchain verification, and an intuitive donor experience, MedFund aims to revolutionize medical crowdfunding with AI-driven insights and trust-enhancing technology.
 
 ## System Requirements
 Your system (12th Gen Intel, 16GB RAM, 64-bit OS) meets all the requirements for running this application. Here are the specific requirements:
